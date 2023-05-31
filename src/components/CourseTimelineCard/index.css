@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration_container {
+  display: flex;
+  align-items: center;
+}
+.span {
+  background-color: aqua;
+  width: fit-content;
+  margin: 2px;
+  padding: 4px;
+}
